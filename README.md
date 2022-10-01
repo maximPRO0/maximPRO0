@@ -1,6 +1,6 @@
 [![Header](https://github.com/maximPRO0/maximPRO0/blob/main/assets/Picsart_22-09-30_21-19-50-215.jpg)]()
 
-### <h1>About me</h1>
+### <h1>🔰About me</h1>
 <li>
     18 years✅
 </li>
@@ -28,7 +28,7 @@
 </li>
 
 
-### Languages and Tools
+### Languages and Tools 🛠⚙️
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
