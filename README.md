@@ -7,16 +7,22 @@
 <li>
     Teacher in IT-park✅
 
+<li>
+    Work in MRIT-01  ✅
+</li>
 
 <li>
-    Work in MRIT-01✅
+    Writing web-site. ✅
 </li>
-<li>
-    Writing web-site✅
-</li>
+
 <li>
     Writing telegram bots✅
 </li>
+
+<li>
+    Using orm SQLAlchemy✅
+</li>
+
 <li>
     Learning TypeScript|TSC✅
 </li>
@@ -40,4 +46,5 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maximPRO0)
-[![Telegram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_w1nston_churchill_/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_w1nston_churchill_/)
+[![Insta](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maksimorlov554)
