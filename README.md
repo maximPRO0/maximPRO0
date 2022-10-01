@@ -2,16 +2,25 @@
 
 ### <h1>About me</h1>
 <li>
-    18 years
+    18 years✅
 </li>
 <li>
-    Work in MRIT-01
+    Teacher in IT-park✅
+
+
+<li>
+    Work in MRIT-01✅
 </li>
 <li>
-    Writing telegram bots
+    Writing web-site✅
+</li>
+<li>
+    Writing telegram bots✅
+</li>
+<li>
+    Learning TypeScript|TSC✅
 </li>
 
-<br>
 
 ### Languages and Tools
 
